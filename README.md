@@ -18,6 +18,7 @@ Task:
 3. Build the Figma component using the data from the API
 4. Make everything type save
 5. Add Header to Page with Page title, meta description and favicon
+6. Make design mobile friendly (responsive)
 
 Bonus:
 
