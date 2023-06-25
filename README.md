@@ -25,4 +25,4 @@ Bonus:
 
 Design:
 
-https://www.figma.com/file/koV9oHrg4ZZD0Rqj1H6CtO/Sunlabs-Frontend-Interview-Design?type=design&node-id=0-1&mode=design&t=2C2MuF5TSXRWWVWA-0
+https://www.figma.com/file/koV9oHrg4ZZD0Rqj1H6CtO/Frontend-Challange-Design?type=design&node-id=0%3A1&mode=design&t=2C2MuF5TSXRWWVWA-1
